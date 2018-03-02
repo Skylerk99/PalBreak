@@ -1,6 +1,6 @@
 Package: com.sharedroutine.skylerk99.palbreak
 Name: PalBreak
-Depends: mobilesubstrate
+Depends: mobilesubstrate, preferenceloader
 Conflicts: com.sharedroutine.palbreak
 Version: 1.3
 Architecture: iphoneos-arm
